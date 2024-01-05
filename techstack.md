@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 CoderPush/activeadmin_addons is built on the following main stack:
+
 - [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Ruby](https://www.ruby-lang.org) – Languages
@@ -19,11 +20,13 @@ CoderPush/activeadmin_addons is built on the following main stack:
 - [Webpacker](https://github.com/rails/webpacker) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 CoderPush/activeadmin_addons is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
@@ -41,14 +44,15 @@ CoderPush/activeadmin_addons is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Webpacker'/> [Webpacker](https://github.com/rails/webpacker) – JS Build Tools / JS Task Runners
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [CoderPush/activeadmin_addons](https://github.com/CoderPush/activeadmin_addons)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|49<br/>Tools used|11/10/23 <br/>Report generated|
+|49<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -252,7 +256,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[aasm](https://rubygems.org/aasm)|v5.0.6|08/27/17|Leandro Segovia |MIT|N/A|
-|[activeadmin](https://rubygems.org/activeadmin)|v2.7.0|05/24/20|Leandro Segovia |MIT|N/A|
+|[activeadmin](https://rubygems.org/activeadmin)|v2.7.0|05/24/20|Leandro Segovia |MIT|[](https://github.com/advisories/GHSA-rqxc-9p8h-xqgq) (High)<br/>[CVE-2023-50448](https://github.com/advisories/GHSA-356j-hg45-x525) (High)<br/>[CVE-2023-51763](https://github.com/advisories/GHSA-xhvv-3jww-c487) (Moderate)|
 |[database_cleaner](https://rubygems.org/database_cleaner)|v1.8.2|02/17/20|Raimundo Herrera |MIT|N/A|
 |[enumerize](https://rubygems.org/enumerize)|v2.3.1|02/17/20|Raimundo Herrera |MIT|N/A|
 |[factory_bot_rails](https://rubygems.org/factory_bot_rails)|v5.1.1|02/29/20|Brian John |MIT|N/A|
@@ -290,4 +294,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
