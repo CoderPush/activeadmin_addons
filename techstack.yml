@@ -2,7 +2,7 @@ repo_name: CoderPush/activeadmin_addons
 report_id: 2498aa5fec1525ce59df109bb5dff122
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:57:36+00:00'
+timestamp: '2024-02-29T18:32:09+00:00'
 requested_by: rjherrera
 provider: github
 branch: master
@@ -439,6 +439,12 @@ tools:
     detected_date: Feb 12
     severity: high
     first_patched: 5.6.2
+  - name: Puma HTTP Request/Response Smuggling vulnerability
+    cve_id: CVE-2024-21647
+    cve_url: https://github.com/advisories/GHSA-c2f4-cvqm-65w2
+    detected_date: Jan 9
+    severity: moderate
+    first_patched: 5.6.8
   - name: Puma with proxy which forwards LF characters as line endings could allow
       HTTP request smuggling
     cve_id: CVE-2021-41136
