@@ -3,21 +3,21 @@
 ## Tech Stack
 CoderPush/activeadmin_addons is built on the following main stack:
 
-- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- [CircleCI](https://circleci.com/) – Continuous Integration
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [SQLite](http://www.sqlite.org/) – Databases
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Active Admin](http://activeadmin.info/) – Database Tools
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [RuboCop](http://batsov.com/rubocop/) – Code Review
+- [SQLite](http://www.sqlite.org/) – Databases
 - [Babel](http://babeljs.io/) – JavaScript Compilers
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [CircleCI](https://circleci.com/) – Continuous Integration
+- [RuboCop](http://batsov.com/rubocop/) – Code Review
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - [Webpacker](https://github.com/rails/webpacker) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -27,21 +27,21 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 CoderPush/activeadmin_addons is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1468/no-img-open-source.png' alt='Active Admin'/> [Active Admin](http://activeadmin.info/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Webpacker'/> [Webpacker](https://github.com/rails/webpacker) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [CoderPush/activeadmin_addons](https://github.com/CoderPush/activeadmin_addons)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|49<br/>Tools used|01/05/24 <br/>Report generated|
+|49<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -264,7 +264,7 @@ Full tech stack [here](/techstack.md)
 |[mimemagic](https://rubygems.org/mimemagic)|v0.3.5|05/14/21|Leandro Segovia |MIT|N/A|
 |[paperclip](https://rubygems.org/paperclip)|v6.1.0|02/17/20|Raimundo Herrera |MIT|N/A|
 |[pry-rails](https://rubygems.org/pry-rails)|v0.3.9|02/29/20|Brian John |MIT|N/A|
-|[puma](https://rubygems.org/puma)|v5.3.1|02/29/20|Brian John |BSD-3-Clause|[CVE-2023-40175](https://github.com/advisories/GHSA-68xg-gqqm-vgj8) (Critical)<br/>[CVE-2022-24790](https://github.com/advisories/GHSA-h99w-9q5r-gjq9) (Critical)<br/>[CVE-2022-23634](https://github.com/advisories/GHSA-rmj8-8hhh-gv5h) (High)<br/>[CVE-2021-41136](https://github.com/advisories/GHSA-48w2-rm65-62xx) (Low)|
+|[puma](https://rubygems.org/puma)|v5.3.1|02/29/20|Brian John |BSD-3-Clause|[CVE-2023-40175](https://github.com/advisories/GHSA-68xg-gqqm-vgj8) (Critical)<br/>[CVE-2022-24790](https://github.com/advisories/GHSA-h99w-9q5r-gjq9) (Critical)<br/>[CVE-2022-23634](https://github.com/advisories/GHSA-rmj8-8hhh-gv5h) (High)<br/>[CVE-2024-21647](https://github.com/advisories/GHSA-c2f4-cvqm-65w2) (Moderate)<br/>[CVE-2021-41136](https://github.com/advisories/GHSA-48w2-rm65-62xx) (Low)|
 |[railties](https://rubygems.org/railties)|v5.2.4|02/29/20|Brian John |MIT|N/A|
 |[require_all](https://rubygems.org/require_all)|v3.0.0|10/29/20|Guillermo Aguirre |MIT|N/A|
 |[rspec-rails](https://rubygems.org/rspec-rails)|v3.9.0|05/26/21|Leandro Segovia |MIT|N/A|
